@@ -13,7 +13,7 @@ Este repositorio demostra praticas de estudos dicas com regex
 
 ## Descricao dos conteudos
 
-[executando](01_executando_regex/README.md)  
+[executando diversas linguagens](01_executando_regex/README.md)  
 [consideracoes iniciais](02_start_regex/README.md)
 
 ## Metacaracteres
@@ -42,6 +42,6 @@ Caracteres especiais no uso de Regex
 | Metacaracter  | Nome          | Significado                       |
 | :-:           | -             | -                                 |
 | \             | Escape        | Uso de metacaracter como literal  |
-| |             | Ou            | Operação Ou                       |
+| \|            | Ou            | Operação Ou                       |
 | ()            | Grupo         | Define um grupo                   |
 | \1...\q       | Retrovisor    | Resgata grupos já definidos       |
