@@ -25,4 +25,4 @@ codigo = aplicarCor(codigo, /(\/\/.*?\n)/g, '267703');
 
 const conteudoFinal = texto.replace(codeRegex, codigo);
 
-files.write(codigoFonteAlterado.html, conteudoFinal);
+files.write('codigoFonteAlterado.html', conteudoFinal);
